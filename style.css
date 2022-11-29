@@ -1040,3 +1040,13 @@ h4 {
         text-align: center;
     }
 }
+
+.citation_author {
+    font-size: 1.85rem;
+    color: rgb(90, 90, 90) 
+}
+
+blockquote p {
+    font-size: 2rem;
+    font-style: italic;
+}
