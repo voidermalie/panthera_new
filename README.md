@@ -3,6 +3,8 @@
 
 I have boosted the initially poor SEO, accessibility and performance scores of the site to 100, 100 and 98 respectively.
 
+You can check out the old version of the site (as how I received it when taking over) in live demo [here](https://voidermalie.github.io/panthera_old) and the code [here](https://github.com/voidermalie/panthera_old).
+
 ## 👁️ Technologies Used
     WCAG Contrast Checker
     LightHouse (Google)
